@@ -8,7 +8,7 @@ Presença na aula de Git do PET ++
       Aqui tinha uma mensagem muito legal, mas o Dropbox não salvou. Por isso eu prefiro o Git :smile:
 }
 
-01 = {
+01 = { Xupa Codifique - Galo
 }
 
 02 = {
